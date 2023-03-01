@@ -1,0 +1,179 @@
+
+.col-6{
+    background-color: #f4efef;
+    text-align: center;
+    float: right;
+    background-attachment: fixed;
+    
+    
+}
+
+.inputs {
+    border: none;
+    height: 40px;
+    margin: top 5px 0px;
+    width: 200px;
+}
+.row{
+    margin-top: 90px;
+    margin-left: 18%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.col-4-{
+    background-image: url('image/x3.jpeg');
+    text-align: center;
+    color: #f4efef;
+    margin-left: 10px;
+    
+}
+p{
+    margin-top: 10Px;
+}
+
+.button{
+    background: none;
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: center;
+    color: #fff;
+    
+}
+i{
+    margin-right: 10px;
+}
+
+h4{
+   
+    color: #f4efef;
+    margin-top: 160px;
+    text-align: center;
+
+}
+h5{
+   
+    color: #f4efef;
+    text-align: center;
+    
+
+}
+
+button{
+    background: none;
+    border-color: #fff;
+    color: #ffffff;
+    border-radius: 7px;
+}
+
+hr {
+    margin: -5px;
+    width: 125px;
+    margin-top: 15px;
+
+}
+
+.Or {
+   margin: -5px;
+    width: 125px;
+   margin-top: 15px;
+   align-items: center;
+}
+
+.btn-block .text-white .bg .bg-success .text-white .font-weight-bold{
+    width: 5px;
+    
+}
+/*
+@media  and (min-width: 1250px) {
+    
+    
+}
+
+body{
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+
+}
+
+*{ box-sizing: border-box;}
+
+image{
+    max-width: 100%;
+    height: auto;
+
+}
+.container{
+    width: 950px;
+    margin: 0 auto;
+}
+
+.post-title{
+    margin-top: 0;
+}
+
+.row{
+    width: 35%;
+    float: auto;
+}
+
+.post-info{
+    width: 65%;
+    float: none;
+
+}
+
+.post-text{
+    float: none;
+    padding-right: 30px;
+    width: 60%;
+}
+
+.post-list{
+    float: none;
+    width: 40%;
+    padding-right: 30px;
+}
+
+@media only scree and (max-width: 960px) {
+    .container{
+        width: auto;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .post-info{
+        float: none;
+        width: auto;
+        margin-right: 335px;
+    }
+
+    .post-list .post-text{
+        float: none;
+        width: auto;
+    }
+
+    .row{
+        position: absolute;
+        width: 315px;
+        top: 20px;
+        right: 20px;
+    }
+
+}
+    @media  and (min-width: 600px) {
+    .container{
+        padding: 0;
+    }
+    
+    .row{
+        position: static;
+        width: auto;
+    }
+
+    .post-info{
+        padding: 20px;
+        margin-right: 0;
+
+    }*/
